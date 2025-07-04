@@ -119,7 +119,7 @@ class _CreatePinboardDialogState extends State<CreatePinboardDialog> {
                     if (_selectedImageBytes != null && _selectedImageName != null) {
                       // In the NEXT STEP, we will upload _selectedImageBytes to Supabase Storage
                       // using _selectedImageName.
-                      print('Image bytes selected: ${_selectedImageName} - UPLOAD LOGIC PENDING');
+                      print('Image bytes selected: $_selectedImageName - UPLOAD LOGIC PENDING');
                     }
 
                     await SupabaseService.createPinboard(

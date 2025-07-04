@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619216612278",
+    "project_id": "valenciaforchieanne",
+    "storage_bucket": "valenciaforchieanne.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619216612278:android:775a840a5c06ef28162f17",
+        "android_client_info": {
+          "package_name": "com.chroma.studhue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3YKDfRTH4ltC8rN7L8BUWE6eIpgcvBQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
